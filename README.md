@@ -9,7 +9,7 @@
 🎓 Education: Master of Science in Computer and Information Science from New England College.
 🎓 Education: Bachelor of Technology in Computer Science and Engineering From VelTech University.
 
-📜 Certifications: Certified Data Analyst, Certified Tableau Professional,	Google Data Analytics Professional, Azure Data Scientist Associate. 
+📜 Certifications: Master In Microsoft Power BI Desktop and Service, Google Business Intelligence,	Google Data Analytics Professional. 
 
 🌱 In my free time, I love exploring new data visualization techniques, hiking, and reading about the latest trends in AI.
 
