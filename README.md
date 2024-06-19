@@ -1,7 +1,8 @@
 👋 Hi there! I'm Siva Vadlamudi, a passionate data analyst with a knack for turning raw data into actionable insights.
 
 🔧 Skills: Data Analysis, Statistical Modeling, Machine Learning, SQL Scripts, 
-🛠️ Tools: Python, R, SQL, Tableau, Excel, PowerBI
+🛠️ Tools:  Tableau, Excel, PowerBI
+    Programmimg Languages: R, SQL, Python
 
 💼 Experience: Over 5 years of experience in analyzing and interpreting complex data sets to help businesses make informed decisions. Successfully led projects that improved operational efficiency and customer satisfaction.
 
